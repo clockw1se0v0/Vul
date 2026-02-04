@@ -9,6 +9,10 @@
 
 ## **<font style="color:rgb(15, 17, 21);">Vulnerability Analysis</font>**
 
+Project Repository: https://github.com/wuweiit/mushroom
+Affected Release: https://github.com/wuweiit/mushroom/releases/tag/v3.1.2
+Default Credentials: admin / 1
+
 <font style="color:rgb(15, 17, 21);">The </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">save()</font>`<font style="color:rgb(15, 17, 21);"> method in </font>`<font style="color:rgb(15, 17, 21);background-color:rgb(235, 238, 242);">src/main/java/org/marker/mushroom/controller/UserController.java</font>`<font style="color:rgb(15, 17, 21);"> lacks proper authorization validation, enabling direct addition of super administrator accounts without authentication.</font>
 
 <!-- 这是一张图片，ocr 内容为： -->
