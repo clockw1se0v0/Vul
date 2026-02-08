@@ -1,17 +1,17 @@
-## Unauthorized Super Administrator Addition in MRCMS v3.1.2
+## Unauthorized Super Administrator Addition in MRCMS v3.1.3
 
 
 ## **<font style="color:rgb(15, 17, 21);">Vulnerability Description</font>**
 
 <font style="color:rgb(15, 17, 21);"></font>
 
-<font style="color:rgb(15, 17, 21);">MRCMS version 3.1.2 contains an access control vulnerability that allows unauthenticated attackers to add super administrator accounts arbitrarily, leading to complete website compromise.</font>
+<font style="color:rgb(15, 17, 21);">MRCMS version 3.1.3 contains an access control vulnerability that allows unauthenticated attackers to add super administrator accounts arbitrarily, leading to complete website compromise.</font>
 
 ## **<font style="color:rgb(15, 17, 21);">Vulnerability Analysis</font>**
 
 Project Repository: https://github.com/wuweiit/mushroom
 
-Affected Release: https://github.com/wuweiit/mushroom/releases/tag/v3.1.2
+Affected Release: https://github.com/wuweiit/mushroom/releases/tag/v3.1.3
 
 Default Credentials: admin / 1
 
